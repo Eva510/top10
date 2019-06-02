@@ -1,4 +1,4 @@
-data = [
+let data = [
     {
         "country": "Afghanistan",
         "population": "35530081"
